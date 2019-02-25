@@ -4,6 +4,7 @@
 ## *How to download this project*
 ----
 1. Open command line or git-bash
+#### * https://github.com/CNwhisper/Laravel_MessageBoard.git
 #### * cd CRUD_board
 
 2. Install dependencies
