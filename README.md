@@ -1,7 +1,7 @@
-# Laravel_MessageBoard
+# **Laravel_MessageBoard**
 ======
 
-## How to download this project
+## *How to download this project*
 ----
 1. Open command line or git-bash
 ####     * cd CRUD_board
