@@ -3,21 +3,20 @@
 
 How to download this project
 ----
-# Open command line or git-bash
-git clone https://github.com/lovenery/youtube-laravel-55-beginner.git
-cd youtube-laravel-55-beginner
+1. Open command line or git-bash
+#cd CRUD_board
 
-# Install dependencies
-composer install
+2. Install dependencies
+#composer install
 
-# copy .env
-cp .env.example .env
+3. copy .env
+#cp .env.example .env
 
-# create database and migrate
-php artisan migrate
+4. create database and migrate
+#php artisan migrate
 
-# Generate application key
-php artisan key:generate
+5. Generate application key
+#php artisan key:generate
 
-# start server
-php artisan serve
+6. start server
+#php artisan serve
