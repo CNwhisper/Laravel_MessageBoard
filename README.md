@@ -17,7 +17,7 @@
 
 #vim .env
 Then set DB_DATABASE, DB_USERNAME, DB_PASSWORD
-to connect DB you have.
+inorder to connect to the DB you have.
 ```
 4. create database table and migrate
 ```
