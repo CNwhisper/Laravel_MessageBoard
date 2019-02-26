@@ -5,7 +5,7 @@
 1. Open command line or git-bash
 ```
 #git clone https://github.com/CNwhisper/Laravel_MessageBoard.git
-#cd CRUD_board
+#cd Laravel_MessageBoard
 ```
 2. Install dependencies
 ```
